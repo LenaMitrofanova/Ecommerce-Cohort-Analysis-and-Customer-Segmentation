@@ -62,4 +62,4 @@
 
 Ссылки:
 
-[Ссылка на репозиторий проекта на GitHub
+https://github.com/LenaMitrofanova/Ecommerce-Cohort-Analysis-and-Customer-Segmentation/blob/main/Ecommerce-Cohort-Analysis-and-Customer-Segmentation.ipynb
